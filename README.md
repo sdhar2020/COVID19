@@ -4,7 +4,7 @@ Built this with the express interest to understand current trends in areas where
 
 Tried calculating:
 
-Weekly incremental numbers
-Per capita Confirmed and Deaths (per 100k)
-Doubling Days for Confirmed and Deaths
-Overall Mortality Rate %
+- Weekly incremental numbers
+- Per capita Confirmed and Deaths (per 100k)
+- Doubling Days for Confirmed and Deaths
+- Overall Mortality Rate %
